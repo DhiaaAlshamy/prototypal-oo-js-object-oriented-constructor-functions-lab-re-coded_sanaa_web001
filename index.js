@@ -1,1 +1,1 @@
-Scooter 
+function Scooter(year,color,) 
